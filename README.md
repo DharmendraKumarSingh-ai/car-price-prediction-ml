@@ -1,6 +1,4 @@
 🚗 Car Price Prediction with Machine Learning
-📌 CodeAlpha Data Science Internship – Task 3
-This project is developed as part of the CodeAlpha Data Science Internship.
 
 The objective of this project is to build a Machine Learning model that predicts the selling price of a car based on different features such as car age, present price, kilometers driven, fuel type, transmission type, selling type, and number of previous owners.
 
@@ -140,4 +138,4 @@ Vehicle price estimation systems.
 👨‍💻 Author
 Dharmendra Kumar Singh
 
-CodeAlpha Data Science Internship
+Github:[(thakurdm64@gmail.com)(https://github.com/DharmendraKumarSingh-ai)]
